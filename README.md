@@ -1,9 +1,9 @@
-Python Learning Projects – Mimo Portfolio
+# Python Learning Projects – Mimo Portfolio
 
 6 Hands-On Python Projects from My Mimo Journey
 This repository showcases six practical projects I built while learning Python on the Mimo. Each one reflects the skills I gained progressively through the course.
 
-#	Project Name
+# Project Name
 1	Transaction Analyzer- Analyze personal finance transactions: totals, averages, largest deposits/withdrawals.  
 2	ChatGPT CLI Client- Interactive console chat with an OpenAI-compatible API (Mimo proxy).
 3	Library Management System; OOP-based system to add, display, checkout, and return books.
@@ -11,7 +11,7 @@ This repository showcases six practical projects I built while learning Python o
 5	Star Wars API Explorer-  Fetch and explore data from SWAPI (people, planets, films, etc.).
 6	ToDo List Manager (CLI)-  Add and remove tasks in a persistent console todo list.
 
-Skills Mastered on Mimo
+# Skills Mastered on Mimo
 •	Variables & data types
 •	Control flow (if/else, loops)
 •	Functions & modular code
@@ -21,13 +21,13 @@ Skills Mastered on Mimo
 •	Error handling & user input
 •	Building interactive CLI apps
 
-How to Run
+# How to Run
 All projects are Jupyter Notebooks (.ipynb). Open them in:
 •	Google Colab (easiest – no setup)
 •	VS Code + Jupyter extension
 •	Jupyter Notebook/Lab
 
-Dependencies:
+# Dependencies:
 Bash
 pip install requests  # Required only for ChatGPT CLI and Star Wars API projects
 For the ChatGPT project, set your API key:
