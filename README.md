@@ -1,4 +1,5 @@
 Python Learning Projects – Mimo Portfolio
+
 6 Hands-On Python Projects from My Mimo Journey
 This repository showcases six practical projects I built while learning Python on the Mimo. Each one reflects the skills I gained progressively through the course.
 
