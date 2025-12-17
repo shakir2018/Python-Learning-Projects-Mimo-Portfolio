@@ -5,11 +5,11 @@ This repository showcases six practical projects I built while learning Python o
 
 # Project Name
 1	Transaction Analyzer- Analyze personal finance transactions: totals, averages, largest deposits/withdrawals.  
-2	ChatGPT CLI Client- Interactive console chat with an OpenAI-compatible API (Mimo proxy).
-3	Library Management System; OOP-based system to add, display, checkout, and return books.
-4	Restaurant Food Order System- Simple CLI ordering system for Italian & Indian meals.
-5	Star Wars API Explorer-  Fetch and explore data from SWAPI (people, planets, films, etc.).
-6	ToDo List Manager (CLI)-  Add and remove tasks in a persistent console todo list.
+2	\nChatGPT CLI Client- Interactive console chat with an OpenAI-compatible API (Mimo proxy).
+3	\nLibrary Management System; OOP-based system to add, display, checkout, and return books.
+4	\nRestaurant Food Order System- Simple CLI ordering system for Italian & Indian meals.
+5	\nStar Wars API Explorer-  Fetch and explore data from SWAPI (people, planets, films, etc.).
+6	\nToDo List Manager (CLI)-  Add and remove tasks in a persistent console todo list.
 
 # Skills Mastered on Mimo
 •	Variables & data types
